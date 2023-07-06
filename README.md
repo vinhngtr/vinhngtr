@@ -13,7 +13,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vinhngtr&&show_icons=true&theme=dark)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vinhngtr&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinhngtr&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### ✍️ Fun Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
