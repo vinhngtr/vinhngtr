@@ -14,8 +14,5 @@
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vinhngtr&&show_icons=true&theme=dark)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vinhngtr&theme=vision-friendly-dark&hide_border=false)<br/>
 
-### ✍️ Fun Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=vinhngtr&icon=0&color=9)](https://visitcount.itsvg.in)
