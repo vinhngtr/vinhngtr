@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-📜I am a self-taught FrontEnd developer<br> 🚍 Currently a student in Ho Chi Minh University of Technology from Vietnam<br>✨ I love developer Web and Physical design in Semiconductor<br><br>
+📜I am a self-taught Software engineer developer<br> 🚍 Currently a student in Ho Chi Minh University of Technology from Vietnam<br>✨ I love developer Web and Physical design in Semiconductor<br><br>
 
 
 # 🌐 Socials:
