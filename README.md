@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-📜I am a self-taught Software engineer developer<br> 🚍 Currently a student in Ho Chi Minh University of Technology from Vietnam<br>
+📜I am a student in Ho Chi Minh University of Technology from Vietnam<br>
 
 
 # 🌐 Socials:
